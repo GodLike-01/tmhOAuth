@@ -1,6 +1,6 @@
 # tmhOAuth
 
-An OAuth library written in PHP by @themattharris.
+An OAuth library written in PHP by @William_j91.
 
 **Disclaimer**: This project is a work in progress. Please use the issue tracker
 to report any enhancements or issues you encounter.
@@ -69,5 +69,5 @@ This is now published on the tmhOAuth wiki <https://github.com/themattharris/tmh
 License: Apache 2 (see [included LICENSE file](https://github.com/themattharris/tmhOAuth/blob/master/LICENSE))
 
 Follow [@tmhOAuth](https://twitter.com/intent/follow?screen_name=tmhOAuth) to receive updates on releases, or ask for support
-Follow me on Twitter: [@themattharris](https://twitter.com/intent/follow?screen_name=themattharris)
+Follow me on Twitter: [@William_j91](https://twitter.com/intent/follow?screen_name=William_j91)
 Check out the Twitter Developer Resources: <https://dev.twitter.com>
